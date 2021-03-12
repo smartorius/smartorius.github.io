@@ -1,0 +1,39 @@
+
+
+/*element*/
+/*body {
+	background-image: url(background.jpg); 
+	background-size: cover;
+}*/
+
+h2, p {
+	color: white;
+	text-align: center;
+	border: 5px solid rgb(255, 176, 170);
+	cursor: pointer;
+}
+
+p {
+	color: pink;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+/*Class*/
+.webtext {
+	border: 5px dashed green;
+}
+
+/*ID*/
+
+#div1 {
+	background: blue;
+}
+
+#div2 :last-child {
+	background: red;
+}
+
